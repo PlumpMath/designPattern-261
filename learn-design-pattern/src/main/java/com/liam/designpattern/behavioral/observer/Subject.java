@@ -1,4 +1,4 @@
-package com.liam.learn.observer;
+package com.liam.designpattern.behavioral.observer;
 
 public class Subject extends AbstractSubject {
 
@@ -11,5 +11,4 @@ public class Subject extends AbstractSubject {
 		//通知observers
 		notifyObservers();
 	}
-
 }

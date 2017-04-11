@@ -1,4 +1,4 @@
-package com.liam.learn.composite;
+package com.liam.designpattern.structural.composite;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 
  * 组合模式（Composite） 把整体和局部的关系用树状结构描述出来，使得客户端把整体对象和局部对象同等看待。
- *
+ * 使用场景：将多个对象组合在一起进行操作，常用于表示树形结构中，例如二叉树，数等。
  * ======
  *
  * 组合模式有时又叫部分-整体模式在处理类似树形结构的问题时比较方便

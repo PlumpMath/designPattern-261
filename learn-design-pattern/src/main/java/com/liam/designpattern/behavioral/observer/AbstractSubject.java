@@ -1,4 +1,4 @@
-package com.liam.learn.observer;
+package com.liam.designpattern.behavioral.observer;
 
 import java.util.ArrayList;
 import java.util.List;

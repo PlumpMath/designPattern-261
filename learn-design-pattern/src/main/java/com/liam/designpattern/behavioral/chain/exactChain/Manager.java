@@ -1,11 +1,12 @@
-package com.liam.learn.chain.exactChain;
+package com.liam.designpattern.behavioral.chain.exactChain;
 
 public class Manager extends ExactHandler {
 
 	@Override
 	public boolean handleRequest(LeaveRequest leaveRequest) {
-		System.out.println("Manager handle...");
+
 		if("正当理由".equals(leaveRequest.getReason())){
+			System.out.println("Manager handle...");
 			return true;
 		}
 		return false;

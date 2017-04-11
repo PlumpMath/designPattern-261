@@ -1,4 +1,4 @@
-package com.liam.learn.chain.exactChain;
+package com.liam.designpattern.behavioral.chain.exactChain;
 
 //要来处理请假请求的人都要继承这个抽象类
 public abstract class ExactHandler {

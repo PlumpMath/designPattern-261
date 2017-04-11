@@ -1,4 +1,4 @@
-package com.liam.learn.observer;
+package com.liam.designpattern.behavioral.observer;
 
 public class Observer1 implements IObserver {
 

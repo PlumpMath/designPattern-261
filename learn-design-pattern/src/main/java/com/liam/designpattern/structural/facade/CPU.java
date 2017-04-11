@@ -1,4 +1,4 @@
-package com.liam.learn.facade;
+package com.liam.designpattern.structural.facade;
 
 public class CPU {
 	public void startup(){

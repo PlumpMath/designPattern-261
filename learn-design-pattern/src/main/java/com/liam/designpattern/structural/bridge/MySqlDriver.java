@@ -1,4 +1,4 @@
-package com.liam.learn.bridge;
+package com.liam.designpattern.structural.bridge;
 
 public class MySqlDriver implements Driver {
 

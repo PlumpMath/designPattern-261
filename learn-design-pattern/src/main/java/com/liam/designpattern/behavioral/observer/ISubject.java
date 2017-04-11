@@ -1,4 +1,4 @@
-package com.liam.learn.observer;
+package com.liam.designpattern.behavioral.observer;
 
 public interface ISubject {
 	/*增加观察者*/  

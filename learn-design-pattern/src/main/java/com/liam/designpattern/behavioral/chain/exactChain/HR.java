@@ -1,4 +1,4 @@
-package com.liam.learn.chain.exactChain;
+package com.liam.designpattern.behavioral.chain.exactChain;
 
 public class HR extends ExactHandler {
 

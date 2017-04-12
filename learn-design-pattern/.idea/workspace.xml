@@ -25,6 +25,7 @@
     <favorites_list name="learn-design-pattern" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< Updated upstream
     <leaf>
       <file leaf-file-name="Visitor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/liam/designpattern/behavioral/visitor/Visitor.java">
@@ -85,6 +86,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf />
+>>>>>>> Stashed changes
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -630,13 +634,21 @@
       <created>1491829699910</created>
       <option name="number" value="Default" />
       <updated>1491829699910</updated>
+<<<<<<< Updated upstream
       <workItem from="1491829703643" duration="1323000" />
       <workItem from="1491875808080" duration="15281000" />
+=======
+      <workItem from="1491829703643" duration="1429000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="16604000" />
+=======
+    <option name="totallyTimeSpent" value="1429000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
